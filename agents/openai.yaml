@@ -1,0 +1,4 @@
+interface:
+  display_name: "KV 视觉资产库生成器"
+  short_description: "从参考 KV 提炼五类可复用视觉素材，并严格校验透明背景"
+  default_prompt: "使用 $build-kv-asset-library 分析这张 KV，并生成背景、氛围、3D 图标、产品和字体资产库。"
